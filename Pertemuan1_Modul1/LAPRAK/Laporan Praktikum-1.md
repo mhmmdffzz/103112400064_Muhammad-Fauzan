@@ -2,9 +2,7 @@
 <p align="center">Muhammad Fauzan - 103112400064</p>
 
 ## Dasar Teori
-
-
- 
+Pada pengenalan C++, praktik laboratorium umumnya memperkenalkan struktur program, tipe data, operator aritmetika/relasional, kendali alur (if/else, switch, for/while/do-while), serta I/O konsol melalui std::cin–std::cout pada <iostream>. Penggunaan media pembelajaran berisi materi sejarah C++, struktur program, operasi aritmetika, percabangan, perulangan, hingga array dan fungsi dilaporkan membantu pemahaman materi pada tahap awal [1]. Pengembangan e-modul pemrograman dasar dengan metode R&D dinyatakan layak digunakan menurut validasi ahli dan uji coba pengguna sehingga relevan untuk mendukung pembelajaran terstruktur [2]. Selain itu, evaluasi aplikasi Learn C++ menunjukkan peningkatan indikator efektivitas (90,4% → 100%), efisiensi (penurunan mean number of touch 3,7 → 3,02), dan kepuasan (67% → 76%) setelah perbaikan antarmuka, menegaskan peran media/aplikasi sebagai pendamping praktik C++ [3].
 
 ## Guided 
 
@@ -245,7 +243,7 @@ int main() {
 ##### Output 1
 ![Output Program 2](https://github.com/mhmmdffzz/103112400064_Muhammad-Fauzan/blob/main/Pertemuan1_Modul1/LAPRAK/Muhammad_Fauzan-Output-Unguided2.png)
 
-Program C++ ini berfungsi untuk mengubah angka menjadi bentuk teks (terbilang)
+Program C++ ini berfungsi untuk Mengonversi angka 0–100 menjadi teks Bahasa Indonesia menggunakan array satuan, belasan, dan puluhan.
 
 ### 3. Pola Iterasi Bertingkat
 
@@ -296,13 +294,19 @@ int main() {
 ##### Output 1
 ![Output Program 3](https://github.com/mhmmdffzz/103112400064_Muhammad-Fauzan/blob/main/Pertemuan1_Modul1/LAPRAK/Muhammad_Fauzan-Output-Unguided3.png)
 
-Program C++ ini berfungsi untuk mencetak pola angka dan bintang berbentuk seperti piramida terbalik di terminal
+Program C++ ini berfungsi untuk mencetak pola piramida terbalik yang simetris angka menurun, tanda * di tengah, lalu angka menaik dengan perataan tengah menggunakan spasi.
 
 ## Kesimpulan
-. . .
+Pengenalan C++ & Code::Blocks menegaskan dasar I/O (<iostream>), pemilihan tipe–operator, serta struktur kendali/perulangan untuk membangun alur program yang sistematis; pemakaian Code::Blocks mempercepat siklus edit–compile–run–debug dan memudahkan debugging awal, sementara literatur kampus Indonesia menunjukkan media/visualisasi dan e-modul bertahap efektif meningkatkan pemahaman serta keterlibatan belajar pemrograman dasar
 
 
 ## Referensi
-[1]  
-<br>[2] 
-<br>...
+[1] Dewi, L. J. E. (2010). Media pembelajaran bahasa pemrograman C++. Jurnal Pendidikan Teknologi dan Kejuruan (Undiksha), 7(1), 63–72.
+Halaman artikel: https://ejournal.undiksha.ac.id/index.php/JPTK/article/view/31
+PDF: https://ejournal.undiksha.ac.id/index.php/JPTK/article/download/31/25/94
+<br>[2]Prasetyoadi, E. B., Rokhmawati, R. I., & Wicaksono, S. A. (2019). Pengembangan e-modul pembelajaran “Pemrograman Dasar” dengan metode R&D (Studi SMKN 4 Malang). Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer (J-PTIIK), 3(10), 10118–10129.
+Halaman artikel: https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/6646
+PDF: https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/download/6646/3193/46603
+<br>[3] Asprila, D. A., Wijoyo, S. H., & Az-Zahra, H. M. (2021). Evaluasi usability pada aplikasi Learn C++ (usability testing). Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer (J-PTIIK), 5(6), 2677–2686.
+Halaman artikel: https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/9392
+PDF: https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/download/9392/4217/66090

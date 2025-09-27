@@ -191,7 +191,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Output Program 1](https://github.com/mhmmdffzz/103112400064_Muhammad-Fauzan/blob/main/Pertemuan-1_Modul1/LAPRAK/Muhammad_Fauzan-Output-Unguided1.png)
+![Output Program 1](https://github.com/mhmmdffzz/103112400064_Muhammad-Fauzan/blob/main/Pertemuan1_Modul1/LAPRAK/Muhammad_Fauzan-Output-Unguided1.png)
 
 program C++ ini adalah sebuah kalkulator sederhana yang melakukan empat operasi matematika dasar (tambah, kurang, kali, bagi) terhadap dua angka yang dimasukkan oleh pengguna
 
@@ -243,7 +243,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Output Program 2](https://github.com/mhmmdffzz/103112400064_Muhammad-Fauzan/blob/main/Pertemuan-1_Modul1/LAPRAK/Muhammad_Fauzan-Output-Unguided2.png)
+![Output Program 2](https://github.com/mhmmdffzz/103112400064_Muhammad-Fauzan/blob/main/Pertemuan1_Modul1/LAPRAK/Muhammad_Fauzan-Output-Unguided2.png)
 
 Program C++ ini berfungsi untuk mengubah angka menjadi bentuk teks (terbilang)
 
@@ -294,7 +294,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Output Program 3](https://github.com/mhmmdffzz/103112400064_Muhammad-Fauzan/blob/main/Pertemuan-1_Modul1/LAPRAK/Muhammad_Fauzan-Output-Unguided3.png)
+![Output Program 3](https://github.com/mhmmdffzz/103112400064_Muhammad-Fauzan/blob/main/Pertemuan1_Modul1/LAPRAK/Muhammad_Fauzan-Output-Unguided3.png)
 
 Program C++ ini berfungsi untuk mencetak pola angka dan bintang berbentuk seperti piramida terbalik di terminal
 

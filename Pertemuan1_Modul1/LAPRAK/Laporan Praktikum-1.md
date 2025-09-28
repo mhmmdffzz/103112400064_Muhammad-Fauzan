@@ -2,7 +2,9 @@
 <p align="center">Muhammad Fauzan - 103112400064</p>
 
 ## Dasar Teori
-Pada pengenalan C++, praktik laboratorium umumnya memperkenalkan struktur program, tipe data, operator aritmetika/relasional, kendali alur (if/else, switch, for/while/do-while), serta I/O konsol melalui std::cin–std::cout pada <iostream>. Penggunaan media pembelajaran berisi materi sejarah C++, struktur program, operasi aritmetika, percabangan, perulangan, hingga array dan fungsi dilaporkan membantu pemahaman materi pada tahap awal [1]. Pengembangan e-modul pemrograman dasar dengan metode R&D dinyatakan layak digunakan menurut validasi ahli dan uji coba pengguna sehingga relevan untuk mendukung pembelajaran terstruktur [2]. Selain itu, evaluasi aplikasi Learn C++ menunjukkan peningkatan indikator efektivitas (90,4% → 100%), efisiensi (penurunan mean number of touch 3,7 → 3,02), dan kepuasan (67% → 76%) setelah perbaikan antarmuka, menegaskan peran media/aplikasi sebagai pendamping praktik C++ [3].
+Pada pengenalan C++, praktik laboratorium umumnya memperkenalkan struktur program, tipe data, operator aritmetika/relasional, kendali alur (if/else, switch, for/while/do-while), serta I/O konsol melalui std::cin–std::cout pada <iostream>. 
+Penggunaan media pembelajaran berisi materi sejarah C++, struktur program, operasi aritmetika, percabangan, perulangan, hingga array dan fungsi dilaporkan membantu pemahaman materi pada tahap awal [1].
+Pengembangan e-modul pemrograman dasar dengan metode R&D dinyatakan layak digunakan menurut validasi ahli dan uji coba pengguna sehingga relevan untuk mendukung pembelajaran terstruktur [2]. Selain itu, evaluasi aplikasi Learn C++ menunjukkan peningkatan indikator efektivitas (90,4% → 100%), efisiensi (penurunan mean number of touch 3,7 → 3,02), dan kepuasan (67% → 76%) setelah perbaikan antarmuka, menegaskan peran media/aplikasi sebagai pendamping praktik C++ [3].
 
 ## Guided 
 
@@ -20,7 +22,7 @@ int main() {
     return 0;
 }
 ```
-Program C++ sederhana yang meminta pengguna untuk memasukkan sebuah angka. Setelah angka dimasukkan, program akan menampilkan kembali angka tersebut ke layar
+Program C++ sederhana yang meminta pengguna untuk memasukkan sebuah angka. Setelah angka dimasukkan, program akan menampilkan kembali angka tersebut ke layar.
 
 ### 2. Kalkulator Aritmatika Dasar
 
@@ -44,7 +46,7 @@ int main() {
     return 0;
 }
 ```
-Kalkulator sederhana yang melakukan operasi aritmatika dasar
+Kalkulator sederhana yang melakukan operasi aritmatika dasar.
 
 ### 3. Percabangan If/Else & Switch Menu
 
@@ -94,7 +96,7 @@ int main() {
     return 0;
 }
 ```
-Program C++ yang menunjukkan cara kerja pengambilan keputusan dalam kode
+Program C++ yang menunjukkan cara kerja pengambilan keputusan dalam kode.
 
 ### 4. Tiga Jenis Perulangan
 
@@ -128,7 +130,7 @@ using namespace std;
     
  }
 ```
-Sebuah program C++ yang mendemonstrasikan tiga jenis perulangan (loop) dasar: for, while, dan do-while
+Sebuah program C++ yang mendemonstrasikan tiga jenis perulangan (loop) dasar: for, while, dan do-while.
 
 ### 5. Array & Struct Rapor Siswa
 
@@ -161,7 +163,7 @@ int main(){
 }
 
 ```
-Program C++ yang dirancang untuk menyimpan dan menampilkan data rapor sederhana untuk beberapa siswa
+Program C++ yang dirancang untuk menyimpan dan menampilkan data rapor sederhana untuk beberapa siswa.
 
 ## Unguided 
 
@@ -191,7 +193,7 @@ int main() {
 ##### Output 1
 ![Output Program 1](https://github.com/mhmmdffzz/103112400064_Muhammad-Fauzan/blob/main/Pertemuan1_Modul1/LAPRAK/Muhammad_Fauzan-Output-Unguided1.png)
 
-program C++ ini adalah sebuah kalkulator sederhana yang melakukan empat operasi matematika dasar (tambah, kurang, kali, bagi) terhadap dua angka yang dimasukkan oleh pengguna
+program C++ ini adalah sebuah kalkulator sederhana yang melakukan empat operasi matematika dasar (tambah, kurang, kali, bagi) terhadap dua angka yang dimasukkan oleh pengguna.
 
 ### 2. Konversi Bilangan 0–100 menjadi Teks
 
@@ -297,8 +299,7 @@ int main() {
 Program C++ ini berfungsi untuk mencetak pola piramida terbalik yang simetris angka menurun, tanda * di tengah, lalu angka menaik dengan perataan tengah menggunakan spasi.
 
 ## Kesimpulan
-Pengenalan C++ & Code::Blocks menegaskan dasar I/O (<iostream>), pemilihan tipe–operator, serta struktur kendali/perulangan untuk membangun alur program yang sistematis; pemakaian Code::Blocks mempercepat siklus edit–compile–run–debug dan memudahkan debugging awal, sementara literatur kampus Indonesia menunjukkan media/visualisasi dan e-modul bertahap efektif meningkatkan pemahaman serta keterlibatan belajar pemrograman dasar
-
+Pengenalan C++ & Code::Blocks menegaskan dasar I/O (<iostream>), pemilihan tipe-operator, serta struktur kendali/perulangan untuk membangun alur program yang sistematis; pemakaian Code::Blocks mempercepat siklus edit–compile–run–debug dan memudahkan debugging awal, sementara literatur kampus Indonesia menunjukkan media/visualisasi dan e-modul bertahap efektif meningkatkan pemahaman serta keterlibatan belajar pemrograman dasar.
 
 ## Referensi
 [1] Dewi, L. J. E. (2010). Media pembelajaran bahasa pemrograman C++. Jurnal Pendidikan Teknologi dan Kejuruan (Undiksha), 7(1), 63–72.

@@ -339,7 +339,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Output Program 2](https://github.com/mhmmdffzz/103112400064_Muhammad-Fauzan/blob/main/Pertemuan1_Modul2/LAPRAK/Muhammad_Fauzan-Output-Unguided2.png)
+![Output Program 2](https://github.com/mhmmdffzz/103112400064_Muhammad-Fauzan/blob/main/Pertemuan2_Modul2/LAPRAK/Muhammad_Fauzan-Output-Unguided2.png)
 
 Program C++ ini berfungsi untuk mendemonstrasikan penggunaan pointer untuk memanipulasi variabel. Program ini menghitung luas dan keliling persegi panjang, kemudian mengubah nilai panjang dan lebar melalui pointer, dan menghitung ulang luas serta keliling dengan nilai yang baru.
 

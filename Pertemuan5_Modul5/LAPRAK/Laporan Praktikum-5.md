@@ -32,7 +32,7 @@ Pada singly linked list, insert/delete di awal berbiaya O(1), sedangkan operasi 
 ### E. Modularitas, Manajemen Memori, dan Keamanan <br/>
 Pemisahan berkas header (.h) dan implementasi (.cpp) menjaga batas antarmuka, memudahkan pengujian, serta pemeliharaan. Di C++, simpul dialokasikan dengan `new` dan dibebaskan dengan `delete`. Memutus pointer (`node->next = NULL`) sebelum `delete` membantu mencegah dangling pointer. Prosedur seperti `deleteList` melakukan iterasi dan dealokasi seluruh simpul untuk mencegah memory leak. Pada variasi implementasi, kepala list bisa berupa field `first` di dalam `struct linkedlist` atau pointer global `head`, keduanya sah asalkan konsisten [1].
 
-## F. Algoritma Pencarian (Linear dan Binary Search) <br/>
+### F. Algoritma Pencarian (Linear dan Binary Search) <br/>
 Pencarian data merupakan salah satu operasi dasar dalam struktur data yang digunakan untuk menemukan elemen tertentu di dalam kumpulan data. Dua algoritma pencarian yang umum digunakan adalah *Sequential Search* dan *Binary Search*. Sequential Search atau pencarian linear bekerja dengan cara membandingkan setiap elemen satu per satu hingga ditemukan data yang dicari atau sampai seluruh elemen diperiksa. Metode ini sederhana namun kurang efisien untuk data besar. Sementara itu, Binary Search hanya dapat diterapkan pada data yang sudah terurut, dengan membagi data menjadi dua bagian dan membandingkan elemen tengah dengan nilai yang dicari. Jika nilai yang dicari lebih kecil, maka pencarian dilanjutkan ke bagian kiri; jika lebih besar, maka ke bagian kanan. Pendekatan ini jauh lebih efisien karena mengurangi jumlah perbandingan secara logaritmik [4].
     
 ## Guided
